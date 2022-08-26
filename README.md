@@ -17,7 +17,7 @@
 `WEanoDDING` 은 비대면 결혼식 참석 서비스 입니다.
 
 
-📜 [노션]([https://ionized-sugar-931.notion.site/B-Noty-cf7e5b4f43754c178652ae2f23698852](https://www.notion.so/_-1ff8c6b9b3bd4252861787b404e733d4))
+📜 [노션](https://www.notion.so/_-1ff8c6b9b3bd4252861787b404e733d4)
 
 -   기획 내용
     - 결혼식 업체가 WEanoDDING 서비스에 예정된 결혼식 등록
@@ -35,7 +35,7 @@
 | 배포서버          | <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=Amazon%20AWS&logoColor=white"> |        
 | DB        | <img src="https://img.shields.io/badge/MySQL-FFCA28?style=plastic&logo=MySQL&logoColor=white">                                                                                                              |       |
 | UI 개발           | <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=Vue.js&logoColor=white"> |                    |
-| 형상관리  | <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white">                                                                                                                     |       |
+| 형상관리  | <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white"><img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white">                                                                                                                     |       |
 | 협업      | <img src="https://img.shields.io/badge/Jira Software-0052CC?style=plastic&logo=Jira Software&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"> |       |
 
 ---
